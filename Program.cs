@@ -51,6 +51,10 @@ namespace KeywordExamples
 
         }
 
+        public static void JimmySaysHello()
+        {
+            Console.WriteLine("Hello from the Ultimate Master Jimmy.");
+        }
         public static void MultiplyBy10(int number)
         {
             number = number * 10;

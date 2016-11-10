@@ -1,0 +1,2 @@
+C:\Users\GeniusGameEmployee\Documents\GitHub\KeywordExamples\obj\Debug\KeywordExamples.csprojResolveAssemblyReference.cache
+C:\Users\GeniusGameEmployee\Documents\GitHub\KeywordExamples\bin\Debug\KeywordExamples.exe.config
